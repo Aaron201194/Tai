@@ -1,0 +1,12 @@
+{
+  "name": "turbowarp-discord-relay",
+  "version": "1.0.0",
+  "description": "Full CORS and User-Agent relay for TurboWarp Discord Bot & Webhooks",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
